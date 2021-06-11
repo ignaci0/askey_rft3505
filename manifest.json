@@ -1,4 +1,5 @@
 {
+    "version": "0.0.1",
     "domain": "askey_rft3505",
     "name": "Askey RFT3505 router - Movistar (Spain)",
     "documentation": "https://github.com/jotacor/homeassistant-custom_components/askey_rft3505",
